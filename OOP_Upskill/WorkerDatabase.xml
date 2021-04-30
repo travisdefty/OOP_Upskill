@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no"?>
+<employees>
+   <operator number = "100">
+      <firstname>Karel</firstname>
+      <lastname>Kruger</lastname>
+      <skill>welder</skill>
+      <availability>open</availability>
+   </operator>
+   
+   <operator number = "200">
+      <firstname>Anton</firstname>
+      <lastname>Basson</lastname>
+      <skill>painter</skill>
+      <availability>busy</availability>
+   </operator>
+   
+   <operator number = "300">
+      <firstname>Gabe</firstname>
+      <lastname>da Silva</lastname>
+      <skill>painter</skill>
+      <availability>busy</availability>
+   </operator>
+   
+      <operator number = "400">
+      <firstname>Travis</firstname>
+      <lastname>Defty</lastname>
+      <skill>supervisor</skill>
+      <availability>open</availability>
+   </operator>
+</employees>
